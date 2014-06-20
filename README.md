@@ -1,6 +1,6 @@
 Layout Trials
 =============
-Before you are a series of HTML layout tasks, increasing in order of difficulty. For this exercise, recreate the layout presented in the screenshot of each task.
+Before you are a series of HTML layout tasks, increasing in order of difficulty. For this exercise, recreate the layout presented in the screenshot of each task. Though you may be tempted, stay away from floats.
 
 * [Trial 01](001.md) - Hello World
 * [Trial 02](002.md) - The Red DIV
